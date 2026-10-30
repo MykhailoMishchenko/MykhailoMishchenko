@@ -27,19 +27,7 @@ Senior Frontend Engineer with 6+ years of React and TypeScript, mostly on data-h
   <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,vercel,git,jest,figma&perline=11" alt="Tooling" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AG_Grid_Enterprise-2A9D8F?style=flat-square" alt="AG Grid" />
-  <img src="https://img.shields.io/badge/SignalR-2A9D8F?style=flat-square" alt="SignalR" />
-  <img src="https://img.shields.io/badge/TanStack_Query-2A9D8F?style=flat-square" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-2A9D8F?style=flat-square" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Mantine-2A9D8F?style=flat-square" alt="Mantine" />
-  <img src="https://img.shields.io/badge/Playwright-2A9D8F?style=flat-square" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Riverpod-2A9D8F?style=flat-square" alt="Riverpod" />
-  <img src="https://img.shields.io/badge/Strapi-2A9D8F?style=flat-square" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Claude_Code-F4A261?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-F4A261?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Multi--agent_workflows-F4A261?style=flat-square" alt="Multi-agent workflows" />
-</p>
+<img src="./assets/chips.svg" alt="AG Grid, SignalR, TanStack Query, Zustand, Mantine, Playwright, Riverpod, Strapi, Claude Code, MCP servers, multi-agent workflows" />
 
 ### Selected work
 

@@ -43,7 +43,8 @@ Senior Frontend Engineer with 6+ years of React and TypeScript, mostly on data-h
 ### Side projects
 
 - 🧩 **[NotchDeck](https://github.com/MykhailoMishchenko/notchdeck)**: turns the MacBook notch into a widget dock with a Dynamic Island, media, calendar, a file buffer, fan control through a privileged helper, and Claude usage limits. Swift and SwiftUI.
-- 🏁 **[Pitwall](https://github.com/MykhailoMishchenko/pitwall)**: Formula 1 analytics where Claude is the analyst and plays F1 Fantasy and Predict against real people, learning from every race weekend. React, Hono, TanStack Query.
+- ⚽ **[Gaffer](https://wc2026-analytics.vercel.app)**: AI analyst for the 2026 World Cup. Claude broke down every match and priced 109 picks against bookmaker odds with an adaptive Kelly criterion on a paper bankroll. It came back from a 20% drawdown to finish in profit (+4.1%, ROI 2.8%, positive closing-line value) and beat a human opponent by about 4,000 credits. The predecessor of Pitwall.
+- 🏁 **[Pitwall](https://github.com/MykhailoMishchenko/pitwall)**: Formula 1 analytics built on Gaffer's engine: Claude is the analyst and plays F1 Fantasy and Predict against real people, learning from every race weekend. React, Hono, TanStack Query.
 - 🛠️ **[AI Website Builder](https://github.com/MykhailoMishchenko/ai-website-builder)**: prompt-to-app builder where agents generate Next.js projects inside cloud sandboxes. Next.js 15, tRPC, Inngest AgentKit, E2B, Prisma.
 - 📊 **[Dashboard](https://github.com/MykhailoMishchenko/dashboard)**: reference setup for an AG Grid server-side row model fed by TanStack Query, with AG Charts.
 
